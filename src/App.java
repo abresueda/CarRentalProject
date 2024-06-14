@@ -10,11 +10,9 @@ public class App {
     public static void main(String[] args) {
         Helper.setTheme();
 
-        //LoginView loginView = new LoginView();
+        LoginView loginView = new LoginView();
+        //admin-1234
 
-        //bunları sil Loginviewi aç.
-        UserManager userManager = new UserManager();
-        AdminView adminView = new AdminView(userManager.findByLogin("admin","1234"));
 
 
     }
