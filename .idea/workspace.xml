@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d665745b-d47f-4dbe-bcf5-0059d8e2c408" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RentaCar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgresql-42.7.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/BookManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/BrandManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/CarManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/ModelManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/ComboItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/BrandDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/CarDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/ModelDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/AdminView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/AdminView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/BookingView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/BookingView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/BrandView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/BrandView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/CarView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/CarView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/LoginView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/LoginView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/ModelView.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/ModelView.java" afterDir="false" />
-    </list>
+    <list default="true" id="d665745b-d47f-4dbe-bcf5-0059d8e2c408" name="Changes" comment="rentaCar is done." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717767331097</updated>
     </task>
+    <task id="LOCAL-00001" summary="rentaCar is done.">
+      <option name="closed" value="true" />
+      <created>1718386980113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718386980113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rentaCar is done." />
+    <option name="LAST_COMMIT_MESSAGE" value="rentaCar is done." />
   </component>
 </project>
