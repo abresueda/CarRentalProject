@@ -76,6 +76,4 @@ Users will be able to check the availability of vehicles for a specific date ran
 - As an agency employee, add and manage vehicles.
 - Perform and manage reservation processes.
 
-## Summary
-The car rental project will provide you with experience in software development using the Java layered architecture, performing database operations, and creating a user interface. Good luck and happy learning!
 
